@@ -30,7 +30,11 @@ body{
 
     background:white;
 
+<<<<<<< HEAD
     border-radius:18px;
+=======
+    border-radius:22px;
+>>>>>>> db0d06ef128d18ea791877bf9b5d9dcba356f0c0
 
     overflow:hidden;
 
@@ -39,6 +43,7 @@ body{
 
 }
 
+<<<<<<< HEAD
 .titlebar{
 
     height:52px;
@@ -92,6 +97,13 @@ body{
 .content{
 
     height:calc(100% - 52px);
+=======
+
+
+.content{
+
+    height:100%;
+>>>>>>> db0d06ef128d18ea791877bf9b5d9dcba356f0c0
 
     display:flex;
 
@@ -105,9 +117,15 @@ body{
 
 .logo{
 
+<<<<<<< HEAD
     width:120px;
 
     margin-bottom:20px;
+=======
+    width:130px;
+
+    margin-bottom:23px;
+>>>>>>> db0d06ef128d18ea791877bf9b5d9dcba356f0c0
 
 }
 
@@ -131,7 +149,11 @@ button{
 
     margin-top:40px;
 
+<<<<<<< HEAD
     padding:15px 42px;
+=======
+    padding:18px 48px;
+>>>>>>> db0d06ef128d18ea791877bf9b5d9dcba356f0c0
 
     border-radius:12px;
 
@@ -145,7 +167,11 @@ button{
 
     font-family:inherit;
 
+<<<<<<< HEAD
     font-size:18px;
+=======
+    font-size:22px;
+>>>>>>> db0d06ef128d18ea791877bf9b5d9dcba356f0c0
 
     transition:.25s;
 
